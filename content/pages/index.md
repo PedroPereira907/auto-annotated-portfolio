@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: >-
       oLÁ, o meu nome é Pedro pereira e sou aluno do curso gestão e programação
