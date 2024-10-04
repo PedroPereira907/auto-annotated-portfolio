@@ -264,7 +264,7 @@ sections:
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: 'Ultimo nome '
+          placeholder: 'Último nome '
           isRequired: false
           width: 1/2
           type: TextFormControl
