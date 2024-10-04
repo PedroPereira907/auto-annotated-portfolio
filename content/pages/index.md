@@ -4,7 +4,8 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: >-
+    /images/634897-download-wallpaper-colored-smoke-clean-wallpaper-1366-x-768-desktop-background.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
