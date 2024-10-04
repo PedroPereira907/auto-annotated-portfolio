@@ -16,7 +16,8 @@ sections:
     title: "oLÁ, o meu nome é Pedro pereira e sou aluno da oficina no curso\_ gestão e programação de sistemas informáticos."
     subtitle: >-
       Estou no meu último ano de curso e pronto para enfrentar os desafios da
-      industria de programação, já obtive esperiencia 
+      industria de programação, já obtive experiência em diversas linguagens e
+      programas como irei mostrar mais abaixo no portfolio
     styles:
       self:
         height: auto
