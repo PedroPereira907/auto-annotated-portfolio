@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "oLÁ, o meu nome é Pedro pereira e sou aluno da oficina no curso\_ gestão e programação de sistemas informáticos."
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: Estou no meu último
     styles:
       self:
         height: auto
