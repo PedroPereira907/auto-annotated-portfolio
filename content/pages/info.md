@@ -70,7 +70,7 @@ sections:
         url: /images/logo.webp
         altText: Logo five
         caption: Logo five
-    spacing: 3
+    spacing: 21
     columns: 5
     aspectRatio: auto
     showCaption: false
