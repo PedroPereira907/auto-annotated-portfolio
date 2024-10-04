@@ -167,10 +167,6 @@ sections:
 
           *   Estágio 133 horas na GARCIA GARCIA S.A.
 
-          **2023**
-
-          *   Academia de Lideres U.B.U.N.T.U (35 horas)
-
           **2022**
 
           *   Estágio 14 horas na Grandes Planos
