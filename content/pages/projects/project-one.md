@@ -7,7 +7,7 @@ client: Awesome client
 description: Com a ajuda de colegas de curso organizei um Torneio de um jogos.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/val.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
