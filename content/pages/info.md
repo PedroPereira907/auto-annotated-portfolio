@@ -162,26 +162,19 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2023**
 
-          * freelance @freelance.me
+          *   Estágio 133 horas na GARCIA GARCIA S.A.
 
-          **2018-2021**
+          **2023**
 
-          * fullstack at this startup
+          *   Academia de Lideres U.B.U.N.T.U (35 horas)
 
-          **2015**
+          **2022**
 
-          * senior front-end at this place
+          *   Estágio 14 horas na Grandes Planos
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
