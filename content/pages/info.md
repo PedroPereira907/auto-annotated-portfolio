@@ -72,7 +72,7 @@ sections:
         caption: Logo five
     spacing: 21
     columns: 5
-    aspectRatio: '1:1'
+    aspectRatio: '16:9'
     showCaption: false
     enableHover: false
     styles:
