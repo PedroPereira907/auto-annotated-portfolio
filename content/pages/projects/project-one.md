@@ -4,7 +4,7 @@ title: Torneio de Jogos
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: 'Com a ajuda de colegas de curso organizei '
+description: Com a ajuda de colegas de curso organizei um Torneio de um jogo da OFICINA.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
