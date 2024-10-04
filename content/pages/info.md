@@ -124,7 +124,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: C++
+        label: CSS
       - type: Label
         label: Swift
   - type: DividerSection
