@@ -127,6 +127,9 @@ sections:
         label: CSS 3
       - type: Label
         label: HTML5
+      - type: Label
+        label: MySQL
+        url: ''
   - type: DividerSection
     styles:
       self:
