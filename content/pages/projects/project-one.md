@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Torneio de Jogos
+title: Torneio de Jogos na escola
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
