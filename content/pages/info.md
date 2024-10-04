@@ -143,11 +143,10 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |+
+    text: |
       [pedromsp2007@gmail.com](mailto:thisismyemail.@myemail.me)
 
-      \[a14350\@oficina.pt]
-
+      <a14350@oficina.pt>
   - type: DividerSection
     styles:
       self:
