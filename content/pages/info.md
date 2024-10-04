@@ -382,7 +382,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve news about my works
+          label: Sign up to recieve news about my works
           isRequired: false
           width: full
           type: CheckboxFormControl
