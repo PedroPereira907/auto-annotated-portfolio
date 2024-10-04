@@ -382,7 +382,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: 'Quero receber noticias '
+          label: Quero receber noticias sobre os trabalhos recentes.
           isRequired: false
           width: full
           type: CheckboxFormControl
