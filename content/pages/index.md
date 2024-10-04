@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "oLÁ, o meu nome é Pedro pereira e sou aluno da oficina no curso\_ gestão e programação de sistemas informáticos."
-    subtitle: Estou no meu último
+    subtitle: >-
+      Estou no meu último ano de curso e pronto para enfrentar os desafios da
+      industria de programação, já obtive esperiencia
     styles:
       self:
         height: auto
