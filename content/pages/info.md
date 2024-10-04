@@ -126,7 +126,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: HTML
+        label: HTML5
   - type: DividerSection
     styles:
       self:
