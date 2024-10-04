@@ -120,7 +120,7 @@ sections:
       - type: Label
         label: PYTHON
       - type: Label
-        label: Netlify
+        label: HTML
       - type: Label
         label: Pancakes
       - type: Label
