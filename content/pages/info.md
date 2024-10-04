@@ -67,7 +67,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo.webp
+        url: /images/logo-ezgif.com-resize.webp
         altText: Logo five
         caption: Logo five
     spacing: 3
