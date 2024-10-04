@@ -63,7 +63,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/logo-lettering.webp
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
