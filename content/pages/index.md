@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       Estou no meu último ano de curso e pronto para enfrentar os desafios da
       industria de programação, já obtive experiência em diversas linguagens e
-      programas como irei mostrar mais abaixo no portfolio
+      programas como irei mostrar mais abaixo no portfolio.
     styles:
       self:
         height: auto
