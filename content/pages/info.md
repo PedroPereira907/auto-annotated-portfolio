@@ -60,7 +60,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'Estágio '
+    subtitle: 'Estágio com as empresas:'
     images:
       - type: ImageBlock
         url: /images/logo-lettering.webp
