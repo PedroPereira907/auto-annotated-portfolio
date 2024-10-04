@@ -122,7 +122,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Pancakes
+        label: PHP
       - type: Label
         label: C++
       - type: Label
