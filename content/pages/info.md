@@ -116,7 +116,7 @@ sections:
       - type: Label
         label: C#
       - type: Label
-        label: Microsoft Office
+        label: JAVA
       - type: Label
         label: Next.js
       - type: Label
