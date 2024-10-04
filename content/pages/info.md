@@ -120,7 +120,7 @@ sections:
       - type: Label
         label: PYTHON
       - type: Label
-        label: HTML
+        label: GODOT LG
       - type: Label
         label: PHP
       - type: Label
