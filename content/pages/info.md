@@ -181,18 +181,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2022-2025**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   OFICINA: curso profissional de Gestão e Programação de Sistemas
+          Informáticos
 
-          * react certificate somewhere
 
-          **2011**
+          **2023**
 
-          * my highschool
+
+          *   Academia de Lideres U.B.U.N.T.U (35 horas)
+
+
+          **2018-2022**
+
+
+          *   D.DINIS: escolaridade básica do 5º ano ao 9º ano
+
         styles:
           self:
             textAlign: left
