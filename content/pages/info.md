@@ -124,7 +124,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: CSS
+        label: CSS3
       - type: Label
         label: HTML5
   - type: DividerSection
