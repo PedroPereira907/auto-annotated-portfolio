@@ -14,8 +14,7 @@ media:
   url: /images/Captura de ecrã 2024-10-07 211003.png
   altText: Project image
 ---
-Este é o meu projeto mais ambicioso até ao momento que ainda está a ser desenvolvido por mim no programa de criação de jogos GODOT. O jogo é em 3D e utiliza a linguagem GDScrips (a linguagem padrão do GODOT),
+##### Este é o meu projeto mais ambicioso até ao momento que ainda está a ser desenvolvido por mim no programa de criação de jogos GODOT. O jogo é em 3D e utiliza a linguagem GDScrips (a linguagem padrão do GODOT),
 
+##### O jogo é focado na defesa da base principal do jogador que está a ser atacada por vários inimigos, para a proteger o utilizador deve por torres em posições estratégicas para eliminar a horda de soldados a quererem destruir a sua base.
 
-
-O jogo é focado na defesa da base principal do jogador que está a ser atacada por vários inimigos, para a proteger o utilizador deve por torres em posições estratégicas para eliminar a horda de soldados a quererem destruir a sua base.
