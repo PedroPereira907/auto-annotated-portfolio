@@ -83,9 +83,9 @@ sections:
     subtitle: Projetos
   - type: CtaSection
     title: Conhece-me melhor
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Carrega no botão abaixo para saber mais informações minhas como estudos,
+      skills e empresas que trabalhei.
     actions:
       - type: Button
         label: Try it now
