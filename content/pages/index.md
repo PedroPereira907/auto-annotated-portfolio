@@ -82,7 +82,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projetos
   - type: CtaSection
-    title: Conhece-me mehor
+    title: Conhece-me melhor
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
