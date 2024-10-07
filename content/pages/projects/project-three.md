@@ -7,7 +7,7 @@ client: Awesome client
 description: Jogo do estilo defesa de torre  desenvolvido com a plataforma GODOT.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de ecrã 2024-10-07 211003.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
