@@ -88,7 +88,7 @@ sections:
       skills e empresas que trabalhei.
     actions:
       - type: Button
-        label: Try it now
+        label: Informações
         altText: ''
         url: /info
         showIcon: true
