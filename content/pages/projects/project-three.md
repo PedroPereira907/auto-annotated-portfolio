@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de ecrã 2024-10-07 211003.png
   altText: Project image
 ---
 Este é o meu projeto mais ambicioso até ao momento e ainda está a ser desenvolvido por mim no programa de criação de jogos GODOT. O jogo é em 3D e utiliza a linguagem GDScrips (a linguagem padrão do GODOT) 
