@@ -4,7 +4,7 @@ title: 'Página WEB: loja de roupa'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Desenvolvido em Wordpress com ajuda do plugin do WooCommerce.
+description: Site desenvolvido em Wordpress com ajuda do plugin do WooCommerce.
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 153032.png
