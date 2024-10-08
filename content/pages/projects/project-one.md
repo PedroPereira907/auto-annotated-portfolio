@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Torneio de Jogos na escola
 colors: colors-a
-date: '0202-04-09'
+date: '2023-04-09'
 client: Awesome client
 description: Com a ajuda de colegas de curso organizei um Torneio de um jogos.
 featuredImage:
