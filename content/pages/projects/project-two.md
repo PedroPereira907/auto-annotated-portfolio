@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Página WEB: loja de roupa'
 colors: colors-a
-date: ''
+date: '0002-11-24'
 client: ''
 description: Site desenvolvido em Wordpress com ajuda do plugin do WooCommerce.
 featuredImage:
