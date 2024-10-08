@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Project Tower Defense '
 colors: colors-a
-date: '2022-01-01'
+date: '2022-01-13'
 client: Awesome client
 description: Jogo do estilo defesa de torre  desenvolvido com a plataforma GODOT.
 featuredImage:
