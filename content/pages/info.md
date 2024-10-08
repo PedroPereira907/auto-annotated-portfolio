@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG-20241008-WA0006 (1).jpg
       altText: Hero image
     styles:
       self:
