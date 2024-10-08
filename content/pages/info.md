@@ -183,7 +183,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Educação:'
         text: >+
           **2022-2025**
 
