@@ -7,7 +7,7 @@ client: ''
 description: Site desenvolvido em Wordpress com ajuda do plugin do WooCommerce.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 153032.png
+  url: /images/imagem3.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
