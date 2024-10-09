@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 153032.png
+  url: /images/imagem1.png
   altText: Project image
 ---
 ##### Este site foi desenvolvido nas aulas de programação de sistemas de comunicação e teve como objetivo avaliar as habilidades dos alunos na realização de sites WEB, o tema escolhido foi uma loja de roupa online utilizando o Wordpress e o WeeCommerce, o site em questão está completamente funcional tirando a parte de check-out devido a não termos roupas para realmente vender no site.
