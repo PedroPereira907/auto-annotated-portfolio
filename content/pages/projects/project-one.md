@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/val.png
+  url: /images/imagem2.png
   altText: Project image
 ---
 ##### Este torneio foi realizado na Festa das Famílias e inicialmente projetado por mim e dois colegas de curso, criamos um vídeo de divulgação onde eu faço de ator e tenho grande participação na edição do  próprio.
