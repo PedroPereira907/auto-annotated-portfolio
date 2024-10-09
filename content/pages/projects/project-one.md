@@ -7,7 +7,7 @@ client: ''
 description: Com a ajuda de colegas de curso organizei um Torneio de um jogos.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 164139.png
+  url: /images/imagem2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
